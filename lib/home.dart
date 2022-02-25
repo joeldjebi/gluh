@@ -39,7 +39,7 @@ class _HomePageState extends State<HomePage> {
                       child: Image.asset('assets/gluh.png'),
                     ),
                     Text(
-                      "Bienvenue",
+                      "Bienvenue@@@@@@@",
                       style: GoogleFonts.jost(
                         textStyle: TextStyle(
                           fontSize: 20,
